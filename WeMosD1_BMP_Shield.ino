@@ -1,6 +1,6 @@
 // Arduino Board: WeMos D1 
 // Weather Station prototype Shield sketch
-// Library used with shield: BMP180MI 
+// Library used with shield: BMP180I2C.h/BMP180MI, Arduino.h, Wire.h, Adafruit_bmp280.h
 // WeMos D1 chip ESP8266 (MASTER) 
 // D3 ------ SCL 
 // D4 ------ SDA
